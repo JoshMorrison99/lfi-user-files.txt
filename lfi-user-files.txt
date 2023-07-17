@@ -1,1 +1,2 @@
 /home/{user}/.bash_history
+/home/{user}/.ssh/id_rsa
